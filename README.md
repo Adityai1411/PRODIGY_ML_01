@@ -22,6 +22,5 @@ This Python code implements a linear regression model to predict the prices of h
 
 - We visualize the distribution of prediction errors and analyze the coefficients associated with each feature. This helps us understand how much each feature affects the predicted price and identify potential areas for improvement.
 
-**Overall, this code demonstrates a basic framework for using linear regression to predict house prices. While it addresses the requested features, further refinements like feature engineering, exploring different models, and checking assumptions can enhance the model's accuracy and reliability.**
 
-Feel free to ask if you have any further questions or want to delve deeper into specific aspects of the code or the results!
+
